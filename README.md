@@ -6,15 +6,15 @@ Your mission? Guide your character through three uniquely designed rooms—each 
 💻 Game development by me (Ana Rodrigues)
 
 ## 🎮 Features
-• Sound integration for a more immersive experience
-• In-game dialogue boxes and messages
-• Room-based level progression
-• Obstacle challenges and player interaction
-• Light narrative and ambient design inspired by music
+- Sound integration for a more immersive experience
+- In-game dialogue boxes and messages
+- Room-based level progression
+- Obstacle challenges and player interaction
+- Light narrative and ambient design inspired by music
 
 ## 🔧 Tech Stack
-• JavaScript (vanilla)
-• HTML5 Canvas
-• CSS
+- JavaScript (vanilla)
+- HTML5 Canvas
+- CSS
 
 Simple, fun, and rhythmically inspired. Perfect for fans of retro-style browser games with a creative twist.
